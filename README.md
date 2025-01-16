@@ -36,7 +36,7 @@ Create Resource group,Virtual network, and 2 VM's.
 <br />
 
 <p>
-<img src="STaticIP.png" height="80%" width="80%" 
+<img src="StaticIP.png" height="80%" width="80%" 
 </p>
 <p>
 Set dc-1 nic private ip address to static. You will click dc-1 in virtual machines, go to network settings, click the NIC, and at the bottom of the screen click ipconfig1 and press static under private ip address settings and Save.
